@@ -47,3 +47,5 @@ Arquivos principais:
 - `src/exercicios/Ex6.jsx`: mostra uma tabela 4x4 de números inteiros aleatórios.
 - `src/exercicios/Ex7.jsx`: calculadora básica com dois valores.
 - `src/exercicios/Ex8.jsx`: calculadora no modelo visual solicitado.
+
+Link repositório Github: https://github.com/LeoAugustto/Lista-de-Exercicios-Malopes-240426
