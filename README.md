@@ -1,7 +1,7 @@
 # Exercícios React
 
 Aluno: Leonardo Augusto de Oliveira Santos  
-RA: 202510826
+RA: 202510826  
 Professor: Marcos Lopes  
 Una Karaíba
 
